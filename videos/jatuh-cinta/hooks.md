@@ -1,0 +1,10 @@
+- * Apa yang terjadi di otak saat kita jatuh cinta?
+- * Jatuh cinta itu urusan otak, bukan hati.
+- Otakmu bereaksi pada fotonya seperti pada hadiah.
+- * Kenapa orang yang kita cintai kelihatan sempurna?
+- Ada bagian otak yang "mati lampu" saat kamu jatuh cinta.
+- Ilmuwan memasukkan orang yang sedang kasmaran ke mesin MRI.
+- Cukup lihat fotonya, dan otakmu langsung berubah.
+- Cinta pertama terasa seperti kecanduan. Ini alasannya.
+- Satu foto. Lihat apa yang terjadi di kepalamu.
+- Kamu pikir jatuh cinta itu perasaan? Ternyata otakmu yang bekerja.

@@ -1,0 +1,15 @@
+{
+  "style": "canvas2d",
+  "name": "jatuh-cinta",
+  "presenter": false,
+  "chrome": false,
+  "tail": 0.2,
+  "captions": false,
+  "theme": {
+    "accent": "#ff4f9e",
+    "paper": "#f3ead8",
+    "grain": 0.012
+  },
+  "language": "id",
+  "format": "papel"
+}

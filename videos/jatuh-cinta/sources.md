@@ -1,0 +1,3 @@
+- Melihat foto orang yang dicintai mengaktifkan sistem hadiah otak yang kaya dopamin (VTA, caudate) | Aron, Fisher et al. 2005, J Neurophysiol, https://pubmed.ncbi.nlm.nih.gov/15928068/
+- Cinta romantis meredupkan area otak untuk penilaian sosial yang kritis terhadap orang lain | Bartels & Zeki 2004, NeuroImage, https://www.ucl.ac.uk/news/2004/feb/ucl-study-establishes-common-biological-ground-maternal-and-romantic-love-humans
+- "Mungkin itu sebabnya dia kelihatan sempurna" = tafsiran, disampaikan dengan "mungkin" (Zeki: penilaian terhadap orang lain dilonggarkan) | https://www.medicalnewstoday.com/articles/what-does-love-do-to-our-brains
