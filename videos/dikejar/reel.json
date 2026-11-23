@@ -2,16 +2,9 @@
   "style": "canvas2d",
   "name": "dikejar",
   "presenter": false,
-  "captions": {
-    "emphasize": [],
-    "font": "Figtree",
-    "weight": 800,
-    "color": "#fff3dc",
-    "emphasis": "#ffc36b",
-    "y": 1400
-  },
+  "captions": false,
   "chrome": false,
-  "tail": 0.4,
+  "tail": 0.3,
   "language": "id",
   "theme": {
     "grain": 0.02,
