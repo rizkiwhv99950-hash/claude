@@ -1,0 +1,24 @@
+{
+  "style": "canvas2d",
+  "name": "curhat",
+  "presenter": false,
+  "captions": {
+    "emphasize": [],
+    "font": "Figtree",
+    "weight": 800,
+    "color": "#fff3dc",
+    "emphasis": "#ffc36b",
+    "y": 1400
+  },
+  "chrome": false,
+  "tail": 0.4,
+  "language": "id",
+  "theme": {
+    "grain": 0.02,
+    "paper": "#170c0c",
+    "ink": "#fff3dc",
+    "accent": "#f5a623",
+    "ink2": "#c8461e"
+  },
+  "format": "sombras"
+}

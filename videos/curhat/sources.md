@@ -1,0 +1,1 @@
+- Disampaikan sebagai pendapat ("katanya"), tanpa angka atau klaim studi | -
