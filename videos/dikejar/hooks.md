@@ -1,0 +1,10 @@
+- * Perempuan itu dikejar, laki-laki yang mengejar.
+- * Kalau dia bilang nggak mau ngomong lagi, jangan langsung pergi.
+- Nggak mau ngomong sama kamu, artinya apa?
+- * Biar dia menunggu seperti ratu.
+- Kadang yang dia mau justru kebalikan dari yang dia bilang.
+- Siapa yang harus mengejar setelah menikah?
+- Cowok boleh sedikit nggak tahu malu.
+- Dia diam bukan berarti pergi.
+- Satu kalimat yang sering disalahpahami suami.
+- Jangan biarkan dia yang mengejar.
