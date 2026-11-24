@@ -1,0 +1,1 @@
+- Tidak ada klaim fakta/angka; isi disampaikan sebagai pendapat ("ada yang bilang") | -

@@ -1,0 +1,17 @@
+{
+  "style": "canvas2d",
+  "name": "dikejar",
+  "presenter": false,
+  "captions": false,
+  "chrome": false,
+  "tail": 0.3,
+  "language": "id",
+  "theme": {
+    "grain": 0.02,
+    "paper": "#170c0c",
+    "ink": "#fff3dc",
+    "accent": "#f5a623",
+    "ink2": "#c8461e"
+  },
+  "format": "sombras"
+}

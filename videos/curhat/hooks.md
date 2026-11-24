@@ -1,0 +1,10 @@
+- * Kenapa banyak cowok kelihatan malas dengar cewek curhat?
+- * Dia cerita soal atasannya. Kamu jawab, resign aja.
+- Yang cowok dengar waktu cewek curhat: tolong selesaikan masalahku.
+- * Kadang yang dia butuhkan cuma sepasang telinga.
+- Curhat tidak selalu minta solusi.
+- Pulang kerja, capek, lalu dia mulai cerita.
+- Satu jawaban yang bikin curhat langsung berhenti.
+- Kenapa solusimu malah bikin dia kesal?
+- Cowok itu penjaga. Itu masalahnya.
+- Pasti capek ya. Tiga kata yang sering lupa diucapkan.

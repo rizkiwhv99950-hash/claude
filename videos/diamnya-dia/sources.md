@@ -1,0 +1,1 @@
+- "Kata banyak orang, perempuan yang bahagia itu ramai" = anggapan umum, disampaikan sebagai kata orang, bukan fakta ilmiah | tanpa klaim angka atau studi

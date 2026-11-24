@@ -1,0 +1,10 @@
+- * Kenapa dia tiba-tiba jadi pendiam?
+- * Kalau dia mendadak diam, itu juga cerita.
+- Perempuan yang bahagia itu ramai. Yang terluka?
+- Dulu dia cerita soal kucing tetangga. Sekarang, tidak ada apa-apa.
+- * Diam itu punya suara.
+- Ukur bahagianya dari seberapa banyak dia bercerita.
+- Ramai berarti bahagia. Lalu sepi berarti apa?
+- Dia tidak marah. Dia cuma berhenti bercerita.
+- Ada cerita yang disampaikan tanpa kata.
+- Kalau ceritanya berhenti, perhatikan.
